@@ -1,12 +1,12 @@
 # Test Automation
 
-Repository pregătit pentru un proiect de automatizare a testelor.
+A repository prepared for a test automation project.
 
-În prezent repository-ul este în faza de inițializare și nu conține încă implementarea testelor. Următorii pași planificați sunt:
+The repository is currently in the setup phase and does not yet contain the test implementation. Planned next steps include:
 
-- configurarea unui proiect Java/Maven;
-- adăugarea Selenium WebDriver și TestNG;
-- implementarea unor scenarii UI și API;
-- documentarea rulării testelor și a rezultatelor.
+- setting up a Java/Maven project;
+- adding Selenium WebDriver and TestNG;
+- implementing UI and API test scenarios;
+- documenting test execution and results.
 
-> Repository-ul va fi actualizat pe măsură ce proiectul este dezvoltat.
+> This repository will be updated as the project evolves.
